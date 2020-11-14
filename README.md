@@ -2,6 +2,6 @@
 
 Isilah nama dan NIM terlebih dahulu.
 
-Nama: 
+Nama: Muhammad Zulfikar Ikhsan
 
-NIM : 
+NIM : 6706202049
